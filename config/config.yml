@@ -1,0 +1,14 @@
+server:
+  host: "localhost"
+  port: 3000
+
+database:
+  dbhost: "localhost"
+  dbport: 5432
+  dbname: "my-db"
+  dbuser: "postgres"
+  dbpassword: "super_secret_db_password"
+
+jwt:
+  adminsecret: "super_secret_admin_key"
+  usersecret: "super_secret_user_key"
