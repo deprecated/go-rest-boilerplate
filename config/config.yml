@@ -5,7 +5,7 @@ server:
 database:
   dbhost: "localhost"
   dbport: 5432
-  dbname: "my-db"
+  dbname: "my-db-dev"
   dbuser: "postgres"
   dbpassword: "super_secret_db_password"
 
